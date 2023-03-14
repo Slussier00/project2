@@ -5,12 +5,12 @@ var TemplateProcessor;
 
 var anon = function() {
 
-// Result message for Problems 1-3
+  
   var p1Message = 'SUCCESS';
   var p2Message = 'SUCCESS';
   var p3Message = 'SUCCESS';
 
-// Keep track of all the var statements
+
   var varDeclared = ['varDeclared', 'p1Message', 'p2Message', 'p3Message'];
 
 
